@@ -1,0 +1,8 @@
+{
+  "name": "bootstrap-table-fixed-columns",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/paramdnoid/bootstrap-table-fixed-columns.git",
+  "author": "Andre.Zimmermann <andrzimmermann@gmx.de>",
+  "license": "MIT"
+}
